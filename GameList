@@ -1,0 +1,8 @@
+getgenv().Games = {
+  [76455837887178] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/Dig%20It", -- Dig it
+  [110333320616502] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/Grace", -- Grace
+  [142823291] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/mm2", -- MM2
+  [7211666966] = "https://raw.githubusercontent.com/hassanxzayn-lua/towerofjumpscript/main/main", -- Tower of Jump
+  [648362523] = "https://raw.githubusercontent.com/hassanxzayn-lua/devil-sbeakingpointgui/main/main",  -- Breaking Point
+  [16732694052] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/fisch1.5", -- Fisch
+}
