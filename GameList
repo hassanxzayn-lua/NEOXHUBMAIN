@@ -5,4 +5,5 @@ getgenv().Games = {
   [7211666966] = "https://raw.githubusercontent.com/hassanxzayn-lua/towerofjumpscript/main/main", -- Tower of Jump
   [648362523] = "https://raw.githubusercontent.com/hassanxzayn-lua/devil-sbeakingpointgui/main/main",  -- Breaking Point
   [16732694052] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/fisch1.5", -- Fisch
+  [70876832253163] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/deadrails", -- Dead Rails
 }
