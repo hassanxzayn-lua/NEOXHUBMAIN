@@ -7,4 +7,5 @@ getgenv().Games = {
   [16732694052] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/fisch1.5", -- Fisch
   [70876832253163] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/deadrails", -- Dead Rails
   [116495829188952] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/Lobby", -- Dead Rails Lobby
+  [98018823628597] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/deadrails", -- Dead Rails Test Sever
 }
