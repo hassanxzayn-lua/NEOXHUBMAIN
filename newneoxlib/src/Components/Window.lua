@@ -139,6 +139,28 @@ return function(Config)
 		Window.AcrylicPaint.AddParent(Window.Root)
 	end
 
+	-- Add the Restore Button
+	Window.RestoreButton = New("TextButton", {
+		Text = "Restore",
+		Size = UDim2.fromOffset(100, 30),
+		Position = UDim2.new(0.5, -50, 1, -40),
+		AnchorPoint = Vector2.new(0.5, 1),
+		BackgroundColor3 = Color3.fromRGB(30, 30, 30),
+		TextColor3 = Color3.fromRGB(255, 255, 255),
+		Font = Enum.Font.SourceSans,
+		TextSize = 18,
+		Visible = false,
+		Parent = Config.Parent,
+	}, {
+		New("UICorner", {
+			CornerRadius = UDim.new(0, 5),
+		}),
+	})
+
+	Creator.AddSignal(Window.RestoreButton.MouseButton1Click, function()
+		Window:Minimize()
+	end)
+
 	local SizeMotor = Flipper.GroupMotor.new({
 		X = Window.Size.X.Offset,
 		Y = Window.Size.Y.Offset,
@@ -317,6 +339,7 @@ return function(Config)
 	function Window:Minimize()
 		Window.Minimized = not Window.Minimized
 		Window.Root.Visible = not Window.Minimized
+		Window.RestoreButton.Visible = Window.Minimized
 		if not MinimizeNotif then
 			MinimizeNotif = true
 			local Key = Library.MinimizeKeybind and Library.MinimizeKeybind.Value or Library.MinimizeKey.Name
@@ -333,6 +356,7 @@ return function(Config)
 			Window.AcrylicPaint.Model:Destroy()
 		end
 		Window.Root:Destroy()
+		Window.RestoreButton:Destroy()
 	end
 
 	local DialogModule = require(Components.Dialog):Init(Window)
