@@ -5,7 +5,7 @@ getgenv().Games = {
   [7211666966] = "https://raw.githubusercontent.com/hassanxzayn-lua/towerofjumpscript/main/main", -- Tower of Jump
   [648362523] = "https://raw.githubusercontent.com/hassanxzayn-lua/devil-sbeakingpointgui/main/main",  -- Breaking Point
   [16732694052] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/fisch1.5", -- Fisch
-  [70876832253163] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/deadrails", -- Dead Rails
+  [70876832253163] = "https://mainneox.naveedasgharshipping.ae/raw/Dead Rails.lua", -- Dead Rails
   [116495829188952] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/Lobby", -- Dead Rails Lobby
   [98018823628597] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/deadrails", -- Dead Rails Test Sever
 }
