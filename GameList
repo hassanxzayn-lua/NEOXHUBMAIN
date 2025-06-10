@@ -10,4 +10,5 @@ getgenv().Games = {
   [98018823628597] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/deadrails", 
   [85896571713843] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/BGSI", 
   [126884695634066] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/growagarden", 
+  [18687417158] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/Forsaken", 
 }
