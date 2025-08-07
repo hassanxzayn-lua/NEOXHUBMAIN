@@ -14,4 +14,5 @@ getgenv().Games = {
   [96342491571673] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/StealABrainrot", 
   [126509999114328] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/99NIFT", 
   [125009265613167] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/InkGame", 
+  [17574618959] = "https://raw.githubusercontent.com/hassanxzayn-lua/neoxfisch/refs/heads/main/test", 
 }
