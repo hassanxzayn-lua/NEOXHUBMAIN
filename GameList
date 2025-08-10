@@ -14,6 +14,6 @@ getgenv().Games = {
   [96342491571673] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/StealABrainrot", -- SAB
   [126509999114328] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/99NIFT", -- 99NITF
   [125009265613167] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/InkGame", -- Ink Game
-  [137925884276740] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/InkGame", -- Build A Plane
+  [137925884276740] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/BuildAPlane", -- Build A Plane
   [17574618959] = "https://raw.githubusercontent.com/hassanxzayn-lua/neoxfisch/refs/heads/main/test", -- Testing Baseplate
 }
