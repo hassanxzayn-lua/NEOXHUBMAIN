@@ -16,4 +16,5 @@ getgenv().Games = {
   [125009265613167] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/InkGame", -- Ink Game
   [137925884276740] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/BuildAPlane", -- Build A Plane
   [17574618959] = "https://raw.githubusercontent.com/hassanxzayn-lua/neoxfisch/refs/heads/main/test", -- Testing Baseplate
+  [127742093697776] = "https://raw.githubusercontent.com/hassanxzayn-lua/NEOXHUBMAIN/refs/heads/main/PlantsVsBrainrots", -- PVB
 }
